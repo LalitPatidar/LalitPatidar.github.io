@@ -35,7 +35,7 @@ positions:
   - years: 2013-2014
     name: Project Manager
     location: IIT Bombay Racing
-    description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
+    description: Part of 9 member core team managing a 3 tier 70 member cross-functional student organization dedicated.
   - years: 2012-2013
     name: Student Council for Political Economy
     location: Board Member
