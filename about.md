@@ -7,5 +7,3 @@ published: true
 ---
 
 I am pursuing a Ph.D. in Mechanical Engineering at The Pennsylvania State University.
-
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
