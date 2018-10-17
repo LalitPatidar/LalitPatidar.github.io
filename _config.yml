@@ -8,12 +8,14 @@ menu:
  - page: Research Projects
    url: /research
    links:
-    - title: "Project One"
+    - title: "Liquid-phase decomposition mechanism"
       url: "#project-one"
-    - title: "Project Two"
+    - title: "Molecular dynamics"
       url: "#project-two"
-    - title: "Project Three"
+    - title: "Chemical kinetic modeling"
       url: "#project-three"
+    - title: "Transport parameters database"
+      url: "#project-four"  
  - page: Curriculum Vitae
    url: /cv
    links:
