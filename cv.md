@@ -39,7 +39,7 @@ positions:
   - years: 2014-2015
     name: Mentor
     location: Department Academic Mentorship Program, IIT Bombay
-    description: Guided academically underperforming students via one-to-one counselling Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
+    description: Guided academically underperforming students via one-to-one counselling.
 misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
 date: 2016-04-02
 layout: cv
