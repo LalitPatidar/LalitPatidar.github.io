@@ -6,16 +6,7 @@ menu:
  - page: Publications
    url: /publications
  - page: Research Projects
-   url: /research
-   links:
-    - title: "Liquid-phase decomposition mechanism"
-      url: "#project-one"
-    - title: "Molecular dynamics"
-      url: "#project-two"
-    - title: "Chemical kinetic modeling"
-      url: "#project-three"
-    - title: "Transport parameters database"
-      url: "#project-four"  
+   url: /research  
  - page: Curriculum Vitae
    url: /cv
    links:
