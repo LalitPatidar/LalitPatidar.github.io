@@ -2,7 +2,7 @@
 title: CV
 summary: "Lalit Patidar's Resume"
 cv_title: Lalit Patidar
-cv_subtitle: 
+cv_subtitle: Graduate Student 
 location: State College, PA
 phone: 
 contact_name: lkp5147@psu.edu
