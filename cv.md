@@ -5,10 +5,10 @@ cv_title: Lalit Patidar
 cv_subtitle: Graduate Student
 location: State College
 phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+contact_name: lkp5147@psu.edu
+contact_link: https://lalitpatidar.github.io/home#contact
+linkedin_name: LinkedIn/lalit-patidar-9b82a02a
+linkedin_link: https://www.linkedin.com/in/lalit-patidar-9b82a02a/
 experience:
   - years: 2015-
     name: Research Assistant
@@ -27,22 +27,14 @@ experience:
     location: Sixt Norway
     description: Customer Service, logistics, preparation of rental cars.
 education:
-  - years: 2013-2015
-    name: Master’s Degree in Comparative Politics
-    location: University of Bergen
+  - years: 2015-Present
+    name: PhD in Mechanical Engineering
+    location: The Pennsylvania State University
     description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
-  - years: 2010-2013
-    name: Bachelor’s Degree in Political Economy
-    location: University of Bergen
+  - years: 2010-2015
+    name: Dual Degree (Integrated B.Tech + M.Tech) in Mechanical Engineering
+    location: Indian Institute of Technology Bombay
     description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
-  - years: 2009-2010
-    name: Diploma
-    location: Manger Folkehøgskule
-    description: Music Production
-  - years: 2006-2009
-    name: Diploma
-    location: Breivika Videregående Skole
-    description: Academic specialization with media
 positions:
   - years: 2013-2015
     name: Student Council for Comparative Politics
