@@ -35,7 +35,7 @@ positions:
   - years: 2013-2014
     name: Project Manager
     location: IIT Bombay Racing
-    description: Part of 9 member core team managing a 3 tier 70 member cross-functional student organization dedicated.
+    description: Part of 9 member core team managing a 3 tier 70 member cross-functional student organization dedicated to building an electric race car for Formula Student competition, UK with an annual budget of INR 60 Lakh.
   - years: 2012-2013
     name: Student Council for Political Economy
     location: Board Member
