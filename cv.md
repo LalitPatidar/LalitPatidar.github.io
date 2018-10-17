@@ -11,21 +11,17 @@ linkedin_name: LinkedIn/lalit-patidar-9b82a02a
 linkedin_link: https://www.linkedin.com/in/lalit-patidar-9b82a02a/
 experience:
   - years: 2015-
-    name: Research Assistant
-    location: Norwegian School of Economics
-    description: Quantitative work including data management, model estimation, and programming in Python.
-  - years: 2015-
-    name: Substitute Teacher
-    location: Pedagogisk Vikarsentral
-    description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
-  - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
-    description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
-    name: Customer Service Representative
-    location: Sixt Norway
-    description: Customer Service, logistics, preparation of rental cars.
+    name: Graduate Research Assistant
+    location: The Pennsylvania State University
+    description: Computational and experimental investigation of decomposition and combustion of energetic materials.
+  - years: 2013
+    name: Design Engineer
+    location: Tata Power Solar Systems Ltd, Bengaluru, India
+    description: Development of new products (solar lantern and portable power unit) for outdoor solar solutions
+  - years: 2012
+    name: Visiting Research Student
+    location: Defence Academy of United Kingdom, Shrivenham, UK
+    description: Finite element stress analysis of screw breech (threaded cap in military tanks)
 education:
   - years: 2013-2015
     name: Master’s Degree in Comparative Politics
