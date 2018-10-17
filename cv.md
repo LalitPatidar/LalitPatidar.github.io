@@ -41,7 +41,7 @@ positions:
     location: Department Academic Mentorship Program, IIT Bombay
     description: Guided academically underperforming students via one-to-one counselling.
 misc: Citizen of India, fluent in English and Hindi, loves to play cricket and read books.
-date: 2016-04-02
+date: 2018-10-17
 layout: cv
 ---
 ---
