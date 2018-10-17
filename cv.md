@@ -23,22 +23,14 @@ experience:
     location: Defence Academy of United Kingdom, Shrivenham, UK
     description: Finite element stress analysis of screw breech (threaded cap in military tanks)
 education:
-  - years: 2013-2015
-    name: Master’s Degree in Comparative Politics
-    location: University of Bergen
-    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
-  - years: 2010-2013
-    name: Bachelor’s Degree in Political Economy
-    location: University of Bergen
-    description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
-  - years: 2009-2010
-    name: Diploma
-    location: Manger Folkehøgskule
-    description: Music Production
-  - years: 2006-2009
-    name: Diploma
-    location: Breivika Videregående Skole
-    description: Academic specialization with media
+  - years: 2015-
+    name: PhD in Mechanical Engineering
+    location: The Pennsylvania State University
+    description: Quantum mechanics investigation of early chemistry of energetic materials. Thermophysical proeprties of energetic materials using molecular dynamics calculations. Chemical kinetic modeling and confined rapid thermolysis exeriments on thermal decomposition of HMX. Transport parameters database for gas-phase combustion modeling of energetic materials. 
+  - years: 2010-2015
+    name: Dual Degree (Integrated B.Tech + M.Tech) in Mechanical Engineering
+    location: Indian Institute of Technology Bombay
+    description: Developed experimental setup for investigation of combustion and emissions in rocket engine and performed CFD simulations. Master's thesis titled "Simulation of combustion characteristics of liquid rocket engine".
 positions:
   - years: 2013-2015
     name: Student Council for Comparative Politics
