@@ -5,10 +5,10 @@ cv_title: Lalit Patidar
 cv_subtitle: Graduate Student 
 location: State College, PA
 phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+contact_name: lkp5147@psu.edu
+contact_link: https://lalitpatidar.github.io/home#contact
+linkedin_name: LinkedIn/lalit-patidar-9b82a02a
+linkedin_link: https://www.linkedin.com/in/lalit-patidar-9b82a02a/
 experience:
   - years: 2015-
     name: Research Assistant
