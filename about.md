@@ -1,7 +1,7 @@
 ---
 title: About
 summary: About this page.
-date: {}
+date: {2018-10-16}
 layout: default
 published: true
 ---
