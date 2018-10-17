@@ -4,28 +4,25 @@ summary: "About this page."
 date: 2018-10-17
 layout: default
 ---
-
-A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
+![Image](assets/images/Lalit_Patidar.jpg)
 
 ## About
-- Minimal, clean design
-	- CV-specific print-style
-- Responsive layout with collapsible sidebar-menu
-	- Hierarchical menu with deep linking
-- Site-wide search-system
-- Simple social sharing buttons
-- Optional MathJax for displaying mathematical notations
+Ph.D. Candidate at The Pennsylvania State University
+Advisor: [Professor Stefan T. Thynell](https://www.mne.psu.edu/department/directory-detail-g.aspx?q=UMT)
+Energetic Materials research group
+[Department of Mechanical and Nuclear Engineering](https://www.mne.psu.edu/)
 
 ## Research Interests
 
-- Reaction Kinetics
-- Combustion Chemistry
-- Molecular Dynamics
+- Computational Combustion Chemistry
 - Energetic Materials
 - Solid Propellants
+- Molecular Dynamics
+- Combustion Modeling
+
 
 ### Contact
 - lkp5147@psu.edu
 - Room 19, Research Building East, University Park, PA 16802
 - [LinkedIn](https://www.linkedin.com/in/lalit-patidar-9b82a02a/)
-Written in [Jekyll](http://jekyllrb.com/), structured with [Bootstrap v4](http://getbootstrap.com/), styled with [plain CSS](http://www.css3-tutorial.net/introduction/what-is-css/). The Jekyll-output (in the `_site`-folder when generated) can be hosted anywhere (static files). For further development, see [Jekyll Tips](http://jekyll.tips/) and [GitHub Pages Setup Guide](http://jmcglone.com/guides/github-pages/).
+- [ResearchGate](https://www.researchgate.net/profile/Lalit_Patidar2)
