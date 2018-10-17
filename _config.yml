@@ -1,8 +1,8 @@
 name: Lalit Patidar
 description: Personal website
 menu:
- - page: About
-   url: /about
+ - page: Home
+   url: /home
  - page: Publications
    url: /publications
  - page: Research Projects
