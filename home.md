@@ -12,7 +12,7 @@ Ph.D. Candidate at The Pennsylvania State University
 
 Advisor: [Professor Stefan T. Thynell](https://www.mne.psu.edu/department/directory-detail-g.aspx?q=UMT)
 
-Energetic Materials research group
+Energetic Materials Research Group
 
 [Department of Mechanical and Nuclear Engineering](https://www.mne.psu.edu/)
 
