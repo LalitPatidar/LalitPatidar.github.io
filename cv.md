@@ -32,14 +32,15 @@ education:
     location: Indian Institute of Technology Bombay
     description: Developed experimental setup for investigation of combustion and emissions in rocket engine and performed CFD simulations. Master's thesis titled "Simulation of combustion characteristics of liquid rocket engine".
 positions:
-  - years: 2013-2015
-    name: Student Council for Comparative Politics
-    location: Board Member
-    description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
-  - years: 2012-2013
-    name: Student Council for Political Economy
-    location: Board Member
-    description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
+  - years: 2013-2014
+    name: Project Manager
+    location: IIT Bombay Racing
+    description: Part of 9 member core team managing a 3 tier 70 member cross-functional student organization dedicated
+to building an electric race car for Formula Student competition, UK with an annual budget of INR 60 Lakh
+  - years: 2014-2015
+    name: Mentor
+    location: Department Academic Mentorship Program
+    description: Guided 2 academically underperforming senior students via one to one counselling
 misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
 date: 2016-04-02
 layout: cv
