@@ -4,7 +4,7 @@ summary: "About this page."
 date: 2018-10-17
 layout: default
 ---
-![Image](assets/images/Lalit_Patidar_1.jpg)
+![Image](assets/images/Lalit_Patidar_2.jpg)
 
 ## About
 Ph.D. Candidate at The Pennsylvania State University
