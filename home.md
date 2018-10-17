@@ -1,5 +1,5 @@
 ---
-title: About
+title: Lalit Patidar
 summary: About this page.
 date: 2018-10-16
 layout: default
@@ -8,7 +8,6 @@ published: true
 
 ![Image](assets/images/Lalit_Patidar_2.jpg)
 
-## About
 Ph.D. Candidate at The Pennsylvania State University
 
 Advisor: [Professor Stefan T. Thynell](https://www.mne.psu.edu/department/directory-detail-g.aspx?q=UMT)
