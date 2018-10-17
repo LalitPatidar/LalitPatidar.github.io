@@ -32,7 +32,7 @@ education:
     location: Indian Institute of Technology Bombay
     description: Developed experimental setup for investigation of combustion and emissions in rocket engine and performed CFD simulations. Master's thesis titled "Simulation of combustion characteristics of liquid rocket engine".
 positions:
-  - years: 2013-2015
+  - years: 2013-2014
     name: Student Council for Comparative Politics
     location: Board Member
     description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
