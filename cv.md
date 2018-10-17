@@ -40,7 +40,7 @@ positions:
     name: Mentor
     location: Department Academic Mentorship Program, IIT Bombay
     description: Guided academically underperforming students via one-to-one counselling.
-misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
+misc: Citizen of India, fluent in English and Hindi, loves to play cricket and read books.
 date: 2016-04-02
 layout: cv
 ---
