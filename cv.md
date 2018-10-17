@@ -40,7 +40,7 @@ to building an electric race car for Formula Student competition, UK with an ann
   - years: 2014-2015
     name: Mentor
     location: Department Academic Mentorship Program
-    description: Guided 2 academically underperforming senior students via one to one counselling
+    description: Guided 2 academically underperforming senior students via one to one counselling.
 misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
 date: 2016-04-02
 layout: cv
