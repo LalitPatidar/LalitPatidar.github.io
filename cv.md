@@ -1,9 +1,9 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
+summary: "Lalit Patidar's Resume"
+cv_title: Lalit Patidar
+cv_subtitle: Graduate Student
+location: State College
 phone: 
 contact_name: OleVik.net/Contact
 contact_link: http://olevik.net/contact
