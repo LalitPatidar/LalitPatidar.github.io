@@ -37,9 +37,9 @@ positions:
     location: IIT Bombay Racing
     description: Part of 9 member core team managing a 3 tier 70 member cross-functional student organization dedicated to building an electric race car for Formula Student competition, UK with an annual budget of INR 60 Lakh.
   - years: 2012-2013
-    name: Mentor
-    location: Department Academic Mentorship Program, IIT Bombay
-    description:Guided 2 academically underperforming senior students via one to one counselling.
+    name: Student Council for Political Economy
+    location: Board Member
+    description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
 misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
 date: 2016-04-02
 layout: cv
