@@ -1,5 +1,5 @@
 ---
-title: "Lalit Patidar"
+title: ""
 summary: "About this page."
 date: 2018-10-17
 layout: default
