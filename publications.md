@@ -6,6 +6,8 @@ layout: default
 ---
 
 ## Journal Articles
+1. Patidar, L., Khichar, M. and Thynell, S.T., 2019. [Intermolecular potential parameters for transport property modeling
+of energetic organic molecules](https://doi.org/10.1016/j.combustflame.2018.11.026). Combustion and Flame, 200, pp.232-241.
 1. Khichar, M., Patidar, L. and Thynell, S.T., 2018. [Improvement and validation of a detailed reaction mechanism for thermal decomposition of RDX in liquid phase](https://doi.org/10.1016/j.combustflame.2018.10.005). Combustion and Flame, 198, pp.455-465.
 1. Patidar, L., Khichar, M. and Thynell, S.T., 2018. [Identification of initial decomposition reactions in liquid-phase HMX using quantum mechanics calculations](https://doi.org/10.1016/j.combustflame.2017.09.042). Combustion and Flame, 188, pp.170-179.
 1. Patidar, L. and Thynell, S.T., 2017. [Quantum mechanics investigation of initial reaction pathways and early ring-opening reactions in thermal decomposition of liquid-phase RDX](https://doi.org/10.1016/j.combustflame.2016.12.024). Combustion and Flame, 178, pp.7-20.
