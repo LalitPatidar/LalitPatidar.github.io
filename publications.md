@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 summary: "About this page."
-date: 2018-10-17
+date: 2019-11-16
 layout: default
 ---
 
@@ -18,10 +18,13 @@ of energetic organic molecules](https://doi.org/10.1016/j.combustflame.2018.11.0
 1. Patidar, L. and Bhamidipati, S.R., 2014. [Parametric Study of Drag Force on a Formula Student Electric Race Car Using CFD](https://doi.org/10.4028/www.scientific.net/AMM.575.300). In Applied Mechanics and Materials (Vol. 575, pp. 300-305). Trans Tech Publications.
 
 ## Conference Presentations
-1. Patidar, L., Khichar, M. and Thynell, S.T., 2018, January. Liquid-phase decomposition of RDX: Formation of Oxy-s-triazine and 1, 3, 4-oxadiazole. In 2018 Spring Technical Meeting of the Eastern States Section of the Combustion Institute, ESSCI 2018.
-1. Khichar, M., Patidar, L. and Thynell, S.T., 2018, January. Computational study of condensed-phase kinetics during combustion of pure RDX. In 2018 Spring Technical Meeting of the Eastern States Section of the Combustion Institute, ESSCI 2018.
-1. Patidar, L., Khichar, M. and Thynell, S.T., 2017, January. A quantum mechanics study on early decomposition reactions for liquid-phase HMX. In 10th US National Combustion Meeting.
-1. Khichar, M., Patidar, L. and Thynell, S.T., 2017, January. Computational analysis of RDX thermolysis in liquid state. In 10th US National Combustion Meeting.
-1. Patidar, L. and Thynell, S.T., 2016, January. A quantum mechanics investigation for RDX ring-opening reactions. In 2016 Spring Technical Meeting of the Eastern States Section of the Combustion Institute, ESSCI 2016.
-1. Patidar, L., Shaikh, T. and Chowdhury, A., Numerical Simulation of Combustion in an n-Heptane and Gaseous Oxygen Rocket. In 10th Asia Pacific Conference on Combustion (ASPACC 2015)
-1. Shaikh, T., Patidar, L. and Chowdhury, A., Experimental Characterization of a Gasoline-GOX Rocket. In 10th Asia Pacific Conference on Combustion (ASPACC 2015)
+1. Patidar, L., Khichar, M. and Thynell, S.T., 2019, January. Modeling of HMX Monopropellant Combustion with Detailed Condensed-Phase Kinetics. In AIAA Propulsion and Energy 2019 Forum, Indianapolis, IN.
+1. Patidar, L., Khichar, M. and Thynell, S.T., 2019, January. Thermogravimetric analysis and chemical kinetic modeling of HMX decomposition in liquid phase. In 11th US National Combustion Meeting, Pasadena, CA.
+1. Khichar, M., Patidar, L. and Thynell, S.T., 2019, January. Analysis of RDX monopropellant combustion wave structure using a model with detailed condensed-phase kinetics. In 11th US National Combustion Meeting, Pasadena, CA.
+1. Patidar, L., Khichar, M. and Thynell, S.T., 2018, January. Liquid-phase decomposition of RDX: Formation of Oxy-s-triazine and 1, 3, 4-oxadiazole. In 2018 Spring Technical Meeting of the Eastern States Section of the Combustion Institute, ESSCI 2018, State College, PA.
+1. Khichar, M., Patidar, L. and Thynell, S.T., 2018, January. Computational study of condensed-phase kinetics during combustion of pure RDX. In 2018 Spring Technical Meeting of the Eastern States Section of the Combustion Institute, ESSCI 2018, State College, PA.
+1. Patidar, L., Khichar, M. and Thynell, S.T., 2017, January. A quantum mechanics study on early decomposition reactions for liquid-phase HMX. In 10th US National Combustion Meeting, College Park, MD.
+1. Khichar, M., Patidar, L. and Thynell, S.T., 2017, January. Computational analysis of RDX thermolysis in liquid state. In 10th US National Combustion Meeting, College Park, MD.
+1. Patidar, L. and Thynell, S.T., 2016, January. A quantum mechanics investigation for RDX ring-opening reactions. In 2016 Spring Technical Meeting of the Eastern States Section of the Combustion Institute, ESSCI 2016, Princeton, NJ.
+1. Patidar, L., Shaikh, T. and Chowdhury, A., Numerical Simulation of Combustion in an n-Heptane and Gaseous Oxygen Rocket. In 10th Asia Pacific Conference on Combustion (ASPACC 2015), Beijing, China.
+1. Shaikh, T., Patidar, L. and Chowdhury, A., Experimental Characterization of a Gasoline-GOX Rocket. In 10th Asia Pacific Conference on Combustion (ASPACC 2015), Beijing, China.
