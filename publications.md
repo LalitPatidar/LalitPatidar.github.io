@@ -6,6 +6,8 @@ layout: default
 ---
 
 ## Journal Articles
+1. Patidar, L., Khichar, M. and Thynell, S.T., 2020. [A comprehensive mechanism for liquid-phase decomposition of 1,3,5,7-tetranitro-1,3,5,7-tetrazoctane (HMX): Thermolysis experiments and detailed kinetic modeling](https://doi.org/10.1016/j.combustflame.2019.10.025). Combustion and Flame, 212, pp.67-78.
+1. Khichar, M., Patidar, L. and Thynell, S.T., 2019. [Comparative Analysis of Vaporization and Thermal Decomposition of Cyclotrimethylenetrinitramine (RDX)](https://doi.org/10.2514/1.B37643). Journal of Propulsion and Power, 35(6), pp.1098-1107.
 1. Patidar, L., Khichar, M. and Thynell, S.T., 2019. [Intermolecular potential parameters for transport property modeling
 of energetic organic molecules](https://doi.org/10.1016/j.combustflame.2018.11.026). Combustion and Flame, 200, pp.232-241.
 1. Khichar, M., Patidar, L. and Thynell, S.T., 2018. [Improvement and validation of a detailed reaction mechanism for thermal decomposition of RDX in liquid phase](https://doi.org/10.1016/j.combustflame.2018.10.005). Combustion and Flame, 198, pp.455-465.
