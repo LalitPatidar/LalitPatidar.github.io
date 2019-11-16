@@ -5,4 +5,4 @@ date: 2019-11-16
 layout: default
 ---
 
-<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://github.com/LalitPatidar/LalitPatidar.github.io/raw/master/Resume_Lalit_Patidar.pdf" width="100%" height="768"></iframe>
+<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://github.com/LalitPatidar/LalitPatidar.github.io/raw/master/resume/Resume_Lalit_Patidar.pdf" width="100%" height="768"></iframe>
