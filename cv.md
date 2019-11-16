@@ -5,4 +5,4 @@ date: 2019-11-16
 layout: default
 ---
 
-[resume] ()
+[resume] (https://github.com/LalitPatidar/LalitPatidar.github.io/raw/master/resume/resume.html)
